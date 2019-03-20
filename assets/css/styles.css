@@ -259,3 +259,16 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 --------------------------------- */
 
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
+
+.demo-gallery {
+    padding-bottom: 80px;
+}
+
+.demo-gallery > ul {
+    margin-bottom: 0;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
