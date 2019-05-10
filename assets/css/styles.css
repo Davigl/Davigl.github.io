@@ -90,7 +90,7 @@ b.max-bold{ font-weight: 700; }
 	margin-bottom: 20px; display: block; background: #FFA804; }
 
 .section .projects:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
-	margin: 0 auto 10px; display: block; background: #FFA804; }
+	margin-bottom: 20px; display: block; background: #FFA804; }
 
 .margin-t-10{ margin-top: 10px; }
 
@@ -283,5 +283,5 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 }
 
 .margin-details {
-	margin-top: 15px;
+	margin-top: 10px;
 }
