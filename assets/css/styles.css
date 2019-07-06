@@ -285,3 +285,28 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .margin-details {
 	margin-top: 10px;
 }
+
+@media only screen and (max-width: 770px) {
+	.item {
+		text-align: center;
+		font-size: 12px;
+	}
+
+	.about-project {
+		margin: 0 auto;
+	}
+
+	.titles-project {
+		font-size: 15px;
+	}
+
+	.section .projects:before {
+	    content: '';
+	    height: 10px;
+	    width: 50px;
+	    border-radius: 5px;
+	    margin: 0 auto 15px;
+	    display: block;
+	    background: #FFA804;
+	}
+}
